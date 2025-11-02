@@ -1,6 +1,29 @@
 
 
-## 👨‍💻 About Me<br><br>Hey, I'm Ronny —  <br>Self-taught developer, late-night coder, full-time dreamer.<br><br>No degree. No shortcuts.  <br>Just passion, patience, and the MERN stack grind.<br><br>Currently learning by building —  <br>Every bug I fix is a lesson earned.  <br>Every project I drop is a level-up.<br><br>---<br><br>### 🛠️ I’m currently working on:<br>- Real-world MERN stack projects 🧱  <br>- Daily JavaScript challenges 💡  <br>- My personal portfolio site 🌐  <br><br>---<br><br>### 🤝 I’m looking to collaborate on:<br>- Beginner-friendly open-source web apps 🛠️  <br>- Frontend/backend ideas with impact 💥  <br>- Anything that helps us grow together 🌱  <br><br>---<br><br>### 🌱 I’m currently learning:<br>- JavaScript mastery (ES6+ and beyond) 🚀  <br>- React, Node.js, MongoDB stack 🔁  <br>- Git, GitHub, and deployment workflows ☁️  <br><br>---<br><br>### 💬 Ask me about:<br>- Learning dev without a CS degree 🧠  <br>- How I practice & build daily projects 📅  <br>- My journey from 0 to job-ready 🔥  <br><br>---<br><br>### ⚡ Fun fact:<br>I started coding to build games —  <br>but fell in love with creating things that *actually work.*  <br>Now, debugging at 2AM is just part of the romance 💻🌙<br>
+<div align="center">
+👨‍💻 About Me
+
+Hey, I'm Ronny — self-taught developer, late-night coder, and full-time dreamer.
+
+Building MERN stack projects, tackling JS challenges, and crafting my portfolio — one bug fix at a time.
+
+💻 Started coding to make games, stayed for the thrill of creating things that work. 🌙
+
+🌱 Learning
+
+JavaScript (ES6+), React, Node.js, MongoDB
+<br>Git, GitHub & deployment workflows
+
+🤝 Open to Collaborate On
+
+Beginner-friendly web apps 💡
+<br>Impactful frontend/backend ideas 🌱
+
+⚡ Fun fact
+
+Debugging at 2AM is just part of the romance 💻💫
+
+</div>
 
 
 ![snake gif](https://github.com/SujitRam-Ronny/SujitRam-Ronny/blob/output/github-snake-dark.svg)
